@@ -17,7 +17,7 @@ public class PE437 {
 			b = r + b;
 			
 		}
-		System.out.println(b);
+		System.out.println("The binary form of that number is " + b);
 	}
 
 }
