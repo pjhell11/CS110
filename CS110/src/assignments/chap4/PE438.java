@@ -16,7 +16,7 @@ public class PE438 {
 			d = d/16;
 			if (r==10)
 				h = "A" + h;
-			if (r==11)
+			else if (r==11)
 				h = "B" + h;
 			else if (r==12)
 				h = "C" + h;
